@@ -6,8 +6,8 @@ from pathlib import Path
 
 L = 100
 B = 100
-N = 150
-iterations = 500
+N = 200
+iterations = 200
 tick = 0.1
 
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 8))
